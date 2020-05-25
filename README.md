@@ -4,7 +4,7 @@ MineMaze II: ‘MineMaze II’ is a project includes EEG Focus Recognition + Min
 (2018 Maker Faire Tokyo, 2018 Maker Faire Seoul, 2019 Maker Faire Seoul, Tsukuba Mini Maker Faire 2020, Virtually Maker Faire 2020)
 
 ## How to use
-1. Insert this plugin into Minecraft Bukkit Server.
+1. Insert this plugin into Minecraft Bukkit Server (MineMaze.jar)
 
 ## Demonstration
 [![MineMaze II Youtube Video](https://img.youtube.com/vi/rF4wpjcnGwU/0.jpg)](https://youtu.be/rF4wpjcnGwU)
